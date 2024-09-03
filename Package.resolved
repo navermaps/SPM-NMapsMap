@@ -1,0 +1,15 @@
+{
+  "originHash" : "659c6307602e65e404c2c38335245623e3ea9249ad974aa6b2c1c69e670c494e",
+  "pins" : [
+    {
+      "identity" : "spm-nmapsgeometry",
+      "kind" : "remoteSourceControl",
+      "location" : "https://oss.navercorp.com/yeonguk-jo/SPM-NMapsGeometry.git",
+      "state" : {
+        "revision" : "3a89fca9d3ff47d8e9a2a8e977cf8c328104e28f",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
