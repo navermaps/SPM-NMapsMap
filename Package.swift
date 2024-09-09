@@ -24,8 +24,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "NMapsMapBinary",
-            url: "https://repository.map.naver.com/archive/pod/NMapsMap/3.17.0/NMapsMap.zip",
-            checksum: "cc1a297c59928aab0986e39d95791d8133cead773d78fc1fdd7799fbce557b19"
+            url: "https://repository.map.naver.com/archive/pod/NMapsMap/3.18.0/NMapsMap.zip",
+            checksum: "0a4d07276155cdd5633df466dddf569a4a3b703ed5bb57366b627b2e21a62ff4"
         ),
     ]
 )
