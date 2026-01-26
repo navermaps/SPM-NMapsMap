@@ -1,12 +1,12 @@
 {
-  "originHash" : "e3fb813ea8a34c68d994222819f1da89eee5b2c8b9fb1855153b53b9948f0a34",
+  "originHash" : "856d7f2545d7a6d5d79a0817c97d27056c18f51d8416ecb0a868aae5b9090ec8",
   "pins" : [
     {
       "identity" : "spm-nmapsgeometry",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/navermaps/SPM-NMapsGeometry.git",
       "state" : {
-        "revision" : "34698ea7de7d5c2009069bef5080f0fc3cb3bca3",
+        "revision" : "436d5e2e684f557faf5ef5862fd6633a42d7af11",
         "version" : "1.0.2"
       }
     }
